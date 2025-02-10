@@ -1,0 +1,46 @@
+import test_image from "@/assets/test_img.jpg";
+
+export const popularEvent = [
+  {
+    id: 1,
+    cover: test_image.src,
+    title: "คอนเสิร์ตมันเล็กมาก",
+    startDate: "24/11/2024, 19:30",
+    endDate: "24/11/2024, 23:30",
+    eventType: "ดนตรี",
+    price: 2290,
+    location: "เขาเขียว",
+    totalUser: 2563,
+  },
+  {
+    id: 2,
+    cover: test_image.src,
+    title: "คอนเสิร์ตมันเล็กมาก 2",
+    startDate: "24/11/2024, 19:30",
+    endDate: "24/11/2024, 23:30",
+    eventType: "ดนตรี",
+    location: "เขาเขียว",
+    totalUser: 2563,
+  },
+  {
+    id: 3,
+    cover: test_image.src,
+    title: "คอนเสิร์ตมันเล็กมาก 3",
+    startDate: "24/11/2024, 19:30",
+    endDate: "24/11/2024, 23:30",
+    eventType: "ดนตรี",
+    location: "เขาเขียว",
+    totalUser: 2563,
+  },
+  {
+    id: 4,
+    cover: test_image.src,
+    title: "คอนเสิร์ตมันเล็กมาก 4",
+    startDate: "24/11/2024, 19:30",
+    endDate: "24/11/2024, 23:30",
+    eventType: "ดนตรี",
+    price: 2290,
+    location: "เขาเขียว",
+    totalUser: 2563,
+  },
+];
